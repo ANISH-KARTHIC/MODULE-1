@@ -1,7 +1,7 @@
  ## **PRINT “Guessing game”** 
 
-**DESCRIPTION**: 
+### **DESCRIPTION**: 
 print() is a built-in function used to display output to the console. 
 
-**EXPECTED OUTPUT:** <br>
+### **EXPECTED OUTPUT:** <br>
 Welcome to guessing game
