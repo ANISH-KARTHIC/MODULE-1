@@ -1,9 +1,9 @@
 ## **Using PRINT make a guessing game.** 
 
-**DESCRIPTION**: 
+### **DESCRIPTION**: 
 Using only the print() function make a guessing game.
 
-**EXPECTED OUTPUT:** <br>
+### **EXPECTED OUTPUT:** <br>
 
 
 Please think of a number (between 3 and 3)  <br>
